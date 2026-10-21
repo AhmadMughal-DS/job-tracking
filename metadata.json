@@ -1,0 +1,6 @@
+{
+  "name": "TrackForge - Job Application Tracker & Google Sheets Sync",
+  "description": "Job application tracker and interview cockpit with automated two-way Google Sheets synchronization, Kanban board, recruiter contact tracking, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

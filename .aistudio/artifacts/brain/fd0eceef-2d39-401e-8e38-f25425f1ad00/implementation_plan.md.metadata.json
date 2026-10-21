@@ -1,0 +1,6 @@
+{
+  "summary":  "Architectural implementation plan for the Job Application Tracker featuring automated two-way Google Sheets synchronization, interactive Kanban pipeline with quick detail drawer, interview round & contact tracking, resume version logging, and job search response rate analytics.",
+  "updatedAt":  "2026-10-21T18:50:37.433239350Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
